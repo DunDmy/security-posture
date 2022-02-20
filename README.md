@@ -8,7 +8,7 @@ List of tools that are used to assess the security posture of the IT environment
 > AzureForensics - https://github.com/AtomicGaryBusey/AzureForensics
 > Chain of Custody - https://docs.microsoft.com/en-us/azure/architecture/example-scenario/forensics/
 > MicroBurst - https://github.com/NetSPI/MicroBurst
-> **Microsoft**
+**Microsoft**
 > Sysinternals - https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite
 **Reverse Engineer**
 > RetDec (C++) - https://github.com/avast/retdec
